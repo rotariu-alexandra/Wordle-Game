@@ -1,3 +1,4 @@
+//variables
 const ANSWER_LENGTH = 5;
 const ROUNDS = 6;
 const letters = document.querySelectorAll(".scoreboard-letter");
