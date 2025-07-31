@@ -4,6 +4,12 @@ A fun and interactive implementation of the popular Wordle game. The game challe
 
 > 🔴 Live demo: ((https://project-wordle-game.netlify.app/)
 
+## 📸 Screenshots
+
+### 💻 View
+![Screenshot](assets/Screenshot-Wordle.jpg)
+
+
 ## Features
 
 - Guess a five-letter word with up to 6 attempts.
