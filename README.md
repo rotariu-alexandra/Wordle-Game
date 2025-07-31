@@ -2,6 +2,8 @@
 
 A fun and interactive implementation of the popular Wordle game. The game challenges users to guess a five-letter word within six attempts, providing visual feedback for correct and incorrect guesses.
 
+> 🔴 Live demo: ((https://project-wordle-game.netlify.app/)
+
 ## Features
 
 - Guess a five-letter word with up to 6 attempts.
